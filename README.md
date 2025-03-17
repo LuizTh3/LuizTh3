@@ -1,8 +1,7 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Doto&weight=500&size=22&pause=1000&color=112BFF&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
-  </a>
-</div>
+<a href="https://git.io/typing-svg">
+  <img  src="https://readme-typing-svg.demolab.com?font=Doto&weight=500&size=22&pause=1000&color=112BFF&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
+</a>
+
 
 <img align="center" alt="" src="./src/Luiz Gustavo Bezerra.gif">
 
@@ -12,8 +11,6 @@
 A inovação nasce da curiosidade: estou sempre aprendendo, evoluindo e transformando desafios em soluções tecnológicas.
 
 #
-
-
 
 <div style="text-align: center;" align="center">
 <img align="center" alt="" height="190px" src="./src/study.gif">
