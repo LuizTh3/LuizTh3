@@ -12,13 +12,18 @@
 Inovação nasce da curiosidade: estou sempre aprendendo, evoluindo e transformando desafios em soluções tecnológicas.
 
 #
-<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190"/>
 
-<h3 align="left">Connect with me!</h3>
+
+
+<div style="text-align: center;" align="center">
+<img align="center" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="center">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:luizgustavo.dev01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/luiz-gustavo-68a01a149/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/luiz_th3/)
+</div>
 
 #
 
