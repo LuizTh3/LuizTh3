@@ -21,6 +21,7 @@ Inovação nasce da curiosidade: estou sempre aprendendo, evoluindo e transforma
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/luiz-gustavo-68a01a149/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/luiz_th3/)
 
+#
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
