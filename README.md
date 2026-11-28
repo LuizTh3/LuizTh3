@@ -7,7 +7,7 @@
 
 #
 
-<p align="center">Desenvolvedor de software júnior, bacharel em Sistemas de informação pelo Centro Universitário Estácio Unimeta. Atualmente trabalho com Python e estudo React.
+<p align="center">Desenvolvedor de software, bacharel em Sistemas de informação pelo Centro Universitário Estácio Unimeta. Atualmente trabalho com Python e estudo React.
 A inovação nasce da curiosidade: estou sempre aprendendo, evoluindo e transformando desafios em soluções tecnológicas.
 
 #
